@@ -24,7 +24,7 @@
 			<a href="${contextPath}/goods/goodsDetail.do?goods_id=${item.goods_id }">
 			<img class="link"  src="${contextPath}/resources/image/1px.gif"> 
 			</a> 
-			<!-- 
+			<!-- sasd
 				<img width="121" height="154" 
 				     src="${contextPath}/thumbnails.do?goods_id=${item.goods_id}&fileName=${item.goods_fileName}">
 				  -->    
